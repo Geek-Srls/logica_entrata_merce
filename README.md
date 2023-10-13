@@ -28,9 +28,18 @@ La successiva scermata riguarda la scelta del cliente
 
 premendo ok si prosegue alla schermata successiva per inserire la targa del automezzo che ha portato la merce
 
-<img src="./assets/screenshot/Screenshot_1697185330.png"  alt="Pagina Cliente" style="width: 400px;" />
+<img src="./assets/screenshot/Screenshot_1697185330.png"  alt="Automezzo" style="width: 400px;" />
 
 dopo di che si inserisce il codice del pallet ovvero l'UDC (unità di Carico)
 
-<img src="./assets/screenshot/Screenshot_1697185345.png"  alt="Pagina Cliente" style="width: 400px;" />
+<img src="./assets/screenshot/Screenshot_1697185345.png"  alt="UDC Page" style="width: 400px;" />
 
+La schermata successiva riguarda il barcode EAN 13 o altro dell'articolo
+
+<img src="./assets/screenshot/Screenshot_1697185371.png"  alt="Articolo" style="width: 400px;" />
+
+e successivamente viene chiesto in numero di pezzi di quell'articolo stoccato sul pallet.
+
+<img src="./assets/screenshot/Screenshot_1697185389.png"  alt="Numero pezzi" style="width: 400px;" />
+
+Il pallet 
