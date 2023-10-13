@@ -79,7 +79,7 @@ Per realizzare questa applicazione e soprattutto per utilizzare GetX ho seguito 
 
 <a href="https://youtu.be/rI7bwmMOuXE?si=OkSaRHN4R2PalTHw" target="_blank" ><img src="./assets/screenshot/Screenshot 2023-10-13 125012.png"   alt="CodeX" style="width: 800px;" /></a>
 
-https://youtu.be/rI7bwmMOuXE?si=OkSaRHN4R2PalTHw
+Link al canale CodeX [Link](https://youtu.be/rI7bwmMOuXE?si=OkSaRHN4R2PalTHw)
 
 
 
