@@ -11,3 +11,14 @@ Il primo Screenshot dell'applicazione si presenta così
 
 <img src="./assets/screenshot/Screenshot_1697184937.png" alt="Login Page" style="width: 400px;" />
 
+Per entrare usare le seguenti credenziali:
+
+username: Test.User
+password: user.test
+
+Se il login va a buon fine l'applicazione riceve un token JWT che utilizzerà per tutte le successive chiamate.
+
+La schermata successiva riguarda la scelta del magazzino.
+
+<img src="./assets/screenshot/Screenshot_1697185284.png"  alt="Pagina Magazzino" style="width: 400px;" />
+
