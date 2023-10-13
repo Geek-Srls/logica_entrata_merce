@@ -13,8 +13,8 @@ Il primo Screenshot dell'applicazione si presenta così
 
 Per entrare usare le seguenti credenziali:
 
-* username: Test.User
-* password: user.test
+* username: **Test.User**
+* password: **user.test**
 
 Se il login va a buon fine l'applicazione riceve un token JWT che utilizzerà per tutte le successive chiamate.
 
