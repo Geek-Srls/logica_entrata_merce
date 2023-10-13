@@ -22,3 +22,9 @@ La schermata successiva riguarda la scelta del magazzino.
 
 <img src="./assets/screenshot/Screenshot_1697185284.png"  alt="Pagina Magazzino" style="width: 400px;" />
 
+La successiva scermata riguarda la scelta del cliente
+
+<img src="./assets/screenshot/Screenshot_1697185307.png"  alt="Pagina Cliente" style="width: 400px;" />
+
+
+
