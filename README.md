@@ -67,7 +67,11 @@ Infine se si clicca sul pulsante "INVIA DATI" i record vengono salvati nel datab
 
 In questa applicazione sono state usate le dipendenze 
 
+GetX per il Routing:
+
 https://pub.dev/packages/get
+
+e Get_Storage per conservare i dati globali durante la raccolta dei dati:
 
 https://pub.dev/packages/get_storage
 
