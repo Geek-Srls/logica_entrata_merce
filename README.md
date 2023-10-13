@@ -75,6 +75,10 @@ e Get_Storage per conservare i dati globali durante la raccolta dei dati:
 
 https://pub.dev/packages/get_storage
 
+Per realizzare questa applicazione e soprattutto per utilizzare GetX ho seguito un tutorial su YouTube:
+
+https://youtu.be/rI7bwmMOuXE?si=OkSaRHN4R2PalTHw
+
 
 
 
