@@ -9,4 +9,5 @@ Ogni pallet è identificato con un numero UDC che viene stampata su un'etichetta
 Il magazziniere stampa le etichette e le attacca ai pallet nella baia di scarico dopo di ché procede alla catalogazione dei pallet mediante l'applicazione.
 Il primo Screenshot dell'applicazione si presenta così
 
-[image]./assets/screenshot/Screenshot_1697184937.png
+<img src="./assets/screenshot/Screenshot_1697184937.png" alt="Login Page" style="height: 100px;"/>
+
