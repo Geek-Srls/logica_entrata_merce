@@ -42,4 +42,31 @@ e successivamente viene chiesto in numero di pezzi di quell'articolo stoccato su
 
 <img src="./assets/screenshot/Screenshot_1697185389.png"  alt="Numero pezzi" style="width: 400px;" />
 
-Il pallet 
+Il pallet deve essere posizionato e quindi deve essere inserita la posizione all'interno del magazzino
+
+<img src="./assets/screenshot/Screenshot_1697185399.png"  alt="Posizionamento Pallet" style="width: 400px;" />
+
+In quest'ultima schermata è possibile inserire un nuovo UDC oppure si va al riepilogo dati prima di salvare tutto nel database.
+La schermata di riepilogo è la seguente.
+
+<img src="./assets/screenshot/Screenshot_1697185410.png"  alt="Riepilogo dati" style="width: 400px;" />
+
+In questa schermata è possibile cancellare un record inserito oppure fare l'edit del numero pezzi inserito.
+
+Cancella record:
+<img src="./assets/screenshot/Screenshot_1697185413.png"  alt="Delete Riepilogo dati" style="width: 400px;" />
+
+Edit record:
+<img src="./assets/screenshot/Screenshot_1697185416.png"  alt="Edit Riepilogo dati" style="width: 400px;" />
+
+Infine se si clicca sul pulsante "INVIA DATI" i record vengono salvati nel database.
+
+<img src="./assets/screenshot/Screenshot_1697185451.png"  alt="Edit Riepilogo dati" style="width: 400px;" />
+
+## Alcune considerazioni sulle dipendenze usate
+
+In questa applicazione è stata usata la dipendenza 
+
+
+
+
