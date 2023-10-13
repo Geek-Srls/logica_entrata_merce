@@ -26,5 +26,11 @@ La successiva scermata riguarda la scelta del cliente
 
 <img src="./assets/screenshot/Screenshot_1697185307.png"  alt="Pagina Cliente" style="width: 400px;" />
 
+premendo ok si prosegue alla schermata successiva per inserire la targa del automezzo che ha portato la merce
 
+<img src="./assets/screenshot/Screenshot_1697185330.png"  alt="Pagina Cliente" style="width: 400px;" />
+
+dopo di che si inserisce il codice del pallet ovvero l'UDC (unità di Carico)
+
+<img src="./assets/screenshot/Screenshot_1697185345.png"  alt="Pagina Cliente" style="width: 400px;" />
 
