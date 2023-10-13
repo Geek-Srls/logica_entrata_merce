@@ -65,7 +65,11 @@ Infine se si clicca sul pulsante "INVIA DATI" i record vengono salvati nel datab
 
 ## Alcune considerazioni sulle dipendenze usate
 
-In questa applicazione è stata usata la dipendenza 
+In questa applicazione sono state usate le dipendenze 
+
+https://pub.dev/packages/get
+
+https://pub.dev/packages/get_storage
 
 
 
